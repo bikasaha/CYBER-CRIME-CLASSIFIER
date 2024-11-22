@@ -14,7 +14,7 @@
   - **`XGBOOST.py`**: XGBoost classifier implementation
 - **`AUGMENTATION.py`**: Data augmentation script
 - **`INFERENCE.py`** - An example script of inference the model
-- **`PREPROCESSED.py`** - Data preprocessign script
+- **`PREPROCESSED.py`** - Data preprocessing script
 
 
 ## Run Steps

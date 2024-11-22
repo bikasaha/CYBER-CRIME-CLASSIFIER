@@ -26,6 +26,6 @@
 ## Inference
 - Create a folder named **MODEL**
 - Download the model files from this [link](https://drive.google.com/drive/folders/1rlEs0p5KFJmMNWlQjMSk2oJ8OQrqkKa2?usp=sharing) and place the download files in **MODEL** folder
-- Run `INFERENCE.py` (Keep in mind that to replace `example_text` value in the script with respective crime info )
+- Run `INFERENCE.py` (Keep in mind to replace `example_text` value in the script with respective example crime information )
 
 

@@ -19,7 +19,7 @@
 
 ## Run Steps
 - Download the augmented train and test dataset from this [link](https://drive.google.com/drive/folders/1CPupu7i7fgw_xC_a406qO_hxfpOUBt7j?usp=sharing) and place it in Folders, i.e., **ML Implmentation**, **BERT, ROBERTA, HINGBERT,** and **HINGROBERTA**
-- Run `{model_name}.py` placed in each folders , i.e., **ML Implmentation**, **BERT, ROBERTA, HINGBERT,** and **HINGROBERTA**.
+- Run `{model_name}.py` present in each folders , i.e., **ML Implmentation**, **BERT, ROBERTA, HINGBERT,** and **HINGROBERTA**.
 
 ``` choices for {model_name}: 'BERT', 'ROBERTA', 'HINGBERT', 'HINGROBERTA', 'ADABOOST', 'KNeighbors', 'RANDOMFOREST', 'XGBOOST' ```
 

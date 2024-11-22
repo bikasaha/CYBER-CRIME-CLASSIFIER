@@ -24,7 +24,7 @@ model = AutoModelForSequenceClassification.from_pretrained(best_model_path)
 model.eval()  # Set the model to evaluation mode
 
 # Load the label mapping
-with open("label_mapping_WO_CV.json", "r") as label_file:
+with open("label_mapping.json", "r") as label_file:
     label_mapping = json.load(label_file)
     label_mapping = {int(k): v for k, v in label_mapping.items()}
 

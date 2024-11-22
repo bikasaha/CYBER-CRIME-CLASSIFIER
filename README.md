@@ -13,6 +13,7 @@
   - **`RANDOMFOREST.py`** - Random Forest classifier implementation
   - **`XGBOOST.py`** - XGBoost classifier implementation
 - **`AUGMENTATION.py`** - Data augmentation script
+- **`EDA.py`** - Exploratory Data Analysis script
 - **`INFERENCE.py`** - An example script of inference the model
 - **`PREPROCESSED.py`** - Data preprocessing script
 

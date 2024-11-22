@@ -25,20 +25,16 @@ Download the model files from this [link](https://drive.google.com/drive/folders
 
 
 
-tests/
-├── __init__.py                    # Initializes the test package
-├── test_main.py                   # Unit tests for main application logic
-├── test_helper.py                 # Unit tests for helper functions
-├── test_data_processing.py        # Unit tests for data processing functions
-├── fixtures/                      # Reusable test data and setup configurations
-│   ├── __init__.py
-│   ├── test_data.json             # Sample test data
-│   └── mock_config.yaml           # Mock configuration file
-├── integration/                   # Integration tests for multiple components
-│   ├── __init__.py
-│   ├── test_api_integration.py    # Integration tests for API
-│   └── test_module_integration.py # Integration tests for modules
-├── performance/                   # Performance and load testing scripts
-│   ├── __init__.py
-│   └── test_performance.py        # Performance tests
-└── test_utils.py                  # Utility functions for testing
+## Description of Folders and Files
+- **`__init__.py`**: Marks the folder as a Python package.
+- **`test_main.py`**: Contains unit tests for your main logic or script.
+- **`test_helper.py`**: Focused on testing helper functions.
+- **`test_data_processing.py`**: For testing data-related processing tasks.
+- **`fixtures/`**: Includes reusable data, mock configurations, or setup files for tests.
+  - **`test_data.json`**: Example data for testing.
+  - **`mock_config.yaml`**: Mock configuration file.
+- **`integration/`**: Houses integration tests for combined components or workflows.
+- **`performance/`**: Contains scripts for performance, load, or stress testing.
+- **`test_utils.py`**: Contains utility functions used across multiple test scripts.
+
+Feel free to copy and paste this directly into your `README.md` file for documentation!

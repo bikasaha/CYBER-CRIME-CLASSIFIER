@@ -16,6 +16,7 @@
 - **`EDA.py`** - Exploratory Data Analysis script
 - **`INFERENCE.py`** - An example script of inference the model
 - **`PREPROCESSED.py`** - Data preprocessing script
+- **`label_mapping.json`** - Label mapping dictionary
 
 
 ## Run Steps

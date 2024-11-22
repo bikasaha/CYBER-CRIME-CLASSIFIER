@@ -12,7 +12,7 @@ from sklearn.naive_bayes import MultinomialNB
 import joblib
 
 # Load the data
-train_data = pd.read_csv('TRAIN_AUG_3_PROCESSED.csv')
+train_data = pd.read_csv('TRAIN_AUG_PROCESSED.csv')
 test_data = pd.read_csv('TEST_PROCESSED.csv')
 
 # Drop rows with NaN values in the relevant columns

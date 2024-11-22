@@ -7,12 +7,12 @@
   - **`ROBERTA`** - Content related to RoBERTa language model
   - **`HINGBERT`** - Content related to HINGBERT language model
   - **`HINGROBERTA`** - Content related to HINGRoBERTa language model
-- **`ML Implmentation`**: Contains the implementation of all Machine Learning classifiers
-  - **`ADABOOST.py`**: AdaBoost classifier implementation
-  - **`KNeighbors.py`**: K-nearest neighbors classifier implementation
-  - **`RANDOMFOREST.py`**: Random Forest classifier implementation
-  - **`XGBOOST.py`**: XGBoost classifier implementation
-- **`AUGMENTATION.py`**: Data augmentation script
+- **`ML Implmentation`** - Contains the implementation of all Machine Learning classifiers
+  - **`ADABOOST.py`** - AdaBoost classifier implementation
+  - **`KNeighbors.py`** - K-nearest neighbors classifier implementation
+  - **`RANDOMFOREST.py`** - Random Forest classifier implementation
+  - **`XGBOOST.py`** - XGBoost classifier implementation
+- **`AUGMENTATION.py`** - Data augmentation script
 - **`INFERENCE.py`** - An example script of inference the model
 - **`PREPROCESSED.py`** - Data preprocessing script
 

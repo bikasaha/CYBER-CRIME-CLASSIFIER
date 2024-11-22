@@ -1,10 +1,18 @@
 # CYBER-CRIME-CLASSIFIER
 
 ## Repository Structure:
-**BERT** - Content related to BERT language model \\
-**ROBERTA** - Content related to RoBERTa language model \\
-**HINGBERT** - Content related to HINGBERT language model \\
+**BERT** - Content related to BERT language model 
+
+**ROBERTA** - Content related to RoBERTa language model 
+
+**HINGBERT** - Content related to HINGBERT language model 
+
 **HINGROBERTA** - Content related to HINGRoBERTa language model
+
+**INFERENCE.py** - An example script of inference the model
+
+**PREPROCESSED.py** - Data preprocessign script
+
 
 
 

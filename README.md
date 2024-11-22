@@ -9,9 +9,7 @@
 
 **HINGROBERTA** - Content related to HINGRoBERTa language model
 
-**INFERENCE.py** - An example script of inference the model
 
-**PREPROCESSED.py** - Data preprocessign script
 
 ## Description of Folders and Files
 - **`Language Model Implmentation`**: Contains the implementation of all Language Models.
@@ -21,6 +19,8 @@
   - **`HINGBERT`** - Content related to HINGBERT language model
   - **`HINGROBERTA`** - Content related to HINGRoBERTa language model
 - **`ML Implmentation`**: Contains the implementation of all Machine Learning Models.
+- **`INFERENCE.py`** - An example script of inference the model
+- **`PREPROCESSED.py`** - Data preprocessign script
 
 
 

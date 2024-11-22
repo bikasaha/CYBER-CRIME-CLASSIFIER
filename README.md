@@ -1,5 +1,13 @@
 # CYBER-CRIME-CLASSIFIER
 
+## Repository Structure:
+**BERT** - Content related to BERT language model \\
+**ROBERTA** - Content related to RoBERTa language model \\
+**HINGBERT** - Content related to HINGBERT language model \\
+**HINGROBERTA** - Content related to HINGRoBERTa language model
+
+
+
 Download the augmented train and test dataset from this [link](https://drive.google.com/drive/folders/1CPupu7i7fgw_xC_a406qO_hxfpOUBt7j?usp=sharing) and place it in Folders, i.e., **BERT, ROBERTA, HINGBERT,** and **HINGROBERTA**.
 
 Create a folder named **MODEL**

@@ -2,13 +2,17 @@
 
 
 ## Description of Folders and Files
-- **`Language Model Implmentation`**: Contains the implementation of all Language Models.
-  - **`test_data.json`**: Example data for testing.
+- **`Language Model Implmentation`**: Contains the implementation of all Language Models
   - **`BERT`** - Content related to BERT language model
   - **`ROBERTA`** - Content related to RoBERTa language model
   - **`HINGBERT`** - Content related to HINGBERT language model
   - **`HINGROBERTA`** - Content related to HINGRoBERTa language model
-- **`ML Implmentation`**: Contains the implementation of all Machine Learning Models.
+- **`ML Implmentation`**: Contains the implementation of all Machine Learning Models
+  - **`ADABOOST.py`**: AdaBoost classifier implementation
+  - **`KNeighbors.py`**: K-nearest neighbors classifier implementation
+  - **`RANDOMFOREST.py`**: Random Forest classifier implementation
+  - **`XGBOOST.py`**: XGBoost classifier implementation
+- **`AUGMENTATION.py`**: Data augmentation script
 - **`INFERENCE.py`** - An example script of inference the model
 - **`PREPROCESSED.py`** - Data preprocessign script
 

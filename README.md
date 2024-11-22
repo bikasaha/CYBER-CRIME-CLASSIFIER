@@ -1,15 +1,5 @@
 # CYBER-CRIME-CLASSIFIER
 
-## Repository Structure:
-**BERT** - Content related to BERT language model 
-
-**ROBERTA** - Content related to RoBERTa language model 
-
-**HINGBERT** - Content related to HINGBERT language model 
-
-**HINGROBERTA** - Content related to HINGRoBERTa language model
-
-
 
 ## Description of Folders and Files
 - **`Language Model Implmentation`**: Contains the implementation of all Language Models.
